@@ -1,1 +1,5 @@
-package wc
+package main
+
+func main() {
+
+}

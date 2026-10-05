@@ -1,0 +1,14 @@
+# Compiled binaries (build with: go build -o bin/wc ./cmd/wc)
+bin/
+
+# Test and benchmark output
+*.test
+*.out
+*.prof
+
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/

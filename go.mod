@@ -1,3 +1,3 @@
-module github.com/thai-ru/wc-rep-go
+module github.com/thai-ru/wc-grep-go
 
 go 1.25.4
